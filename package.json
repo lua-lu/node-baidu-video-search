@@ -1,0 +1,34 @@
+{
+  "name": "baidu-video-search",
+  "version": "0.1.0",
+  "description": "Baidu video search api for node.js",
+  "main": "index.js",
+  "dependencies": {
+    "fbbk-json": "0.0.1",
+    "iconv-lite": "^0.4.4"
+  },
+  "devDependencies": {
+    "istanbul": "^0.3.2",
+    "mocha": "^1.21.5",
+    "should": "^4.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lua-lu/node-baidu-video-search.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lua-lu/node-baidu-video-search/issues"
+  },
+  "homepage": "https://github.com/lua-lu/node-baidu-video-search",
+  "keywords": [
+    "baidu",
+    "video",
+    "search",
+    "api"
+  ],
+  "author": "Leigh Zhu",
+  "license": "MIT"
+}
