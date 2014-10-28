@@ -10,6 +10,13 @@ $ npm install baidu-video-search
 ```
 
 ## Example
+```js
+var search = require('baidu-video-search');
+
+search('lol', function(err, data) {
+    console.log(data);
+})
+```
 
 ## Usage
 
