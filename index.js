@@ -1,5 +1,4 @@
 'use strict';
-var fs = require('fs');
 var querystring = require('querystring');
 
 var request = require('request');
