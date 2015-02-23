@@ -17,8 +17,6 @@ search('lol', function(err, data) {
 })
 ```
 
-## Usage
-
 ## License
 
 MIT © [Leigh Zhu](#)
